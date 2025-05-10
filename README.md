@@ -50,7 +50,7 @@ To develop a robust stock forecasting system that uses:
 
 📊 Phase 2: ✅ Submitted
 
-🚀 Phase 3: 🔒 Coming Soon
+🚀 Phase 3: ✅ Submitted
 ```
 
 ## 👥 Team Members
